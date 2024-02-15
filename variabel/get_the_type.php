@@ -33,6 +33,7 @@
 <pre>
 
 <?php
+//Untuk mendapatkan tipe data suatu variabel, gunakan fungsi var_dump().
 var_dump(5);
 var_dump("John");
 var_dump(3.14);

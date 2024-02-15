@@ -31,6 +31,7 @@
         </table>
     </header>
 <?php  
+//Dalam contoh berikut $x adalah bilangan bulat. Fungsi PHP var_dump() mengembalikan tipe data dan nilai
 $x = 5985;
 var_dump($x);
 ?>  

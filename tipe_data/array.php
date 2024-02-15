@@ -31,6 +31,10 @@
         </table>
     </header>
 <?php  
+//Array menyimpan banyak nilai dalam satu variabel.
+
+//Dalam contoh berikut $cars adalah sebuah array. Fungsi PHP var_dump() mengembalikan tipe data dan nilai:
+
 $cars = array("Volvo","BMW","Toyota");
 var_dump($cars);
 ?>  

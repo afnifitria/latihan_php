@@ -31,9 +31,55 @@
         </table>
     </header>
 <?php
+//Operator penugasan dasar di PHP adalah "=".
+// Artinya operan kiri disetel ke nilai ekspresi penugasan di sebelah kanan.
 $x = 10;  
 echo $x;
 ?>  
 
+<h5>addition<h5>
+<?php
+//Addition
+$x = 20;  
+$x += 100;
+
+echo $x;
+?>  
+
+<h5>subtraction<h5>
+<?php
+//subtraction
+$x = 50;
+$x -= 30;
+
+echo $x;
+?>  
+
+<h5>multiplication<h5>
+<?php
+//Multiplication
+$x = 5;
+$x *= 6;
+
+echo $x;
+?>  
+
+<h5>division<h5>
+<?php
+//division
+$x = 10;
+$x /= 5;
+
+echo $x;
+?>  
+
+<h5>modulus<h5>
+<?php
+//modulus
+$x = 15;
+$x %= 4;
+
+echo $x;
+?>  
 </body>
 </html>

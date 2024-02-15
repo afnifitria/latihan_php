@@ -31,6 +31,7 @@
         </table>
     </header>
 <?php
+//PHP tidak memiliki perintah untuk mendeklarasikan variabel, dan tipe datanya bergantung pada nilai variabel.
 $x = $y = $z = "Fruit";
 
 echo $x;

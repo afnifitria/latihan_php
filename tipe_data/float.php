@@ -31,6 +31,9 @@
         </table>
     </header>
 <?php  
+//Float (angka floating point) adalah bilangan dengan titik desimal atau bilangan dalam bentuk eksponensial.
+
+//Dalam contoh berikut $x adalah float. Fungsi PHP var_dump() mengembalikan tipe data dan nilai:
 $x = 10.365;
 var_dump($x);
 ?>  

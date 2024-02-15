@@ -31,6 +31,7 @@
         </table>
     </header>
 <?php
+//Contoh berikut memiliki fungsi dengan satu argumen ($fname).
 function familyName($fname) {
   echo "$fname XI rekayasa perangkat lunak.<br>";
 }

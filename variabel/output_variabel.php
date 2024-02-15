@@ -32,6 +32,7 @@
     </header> 
     <!--contoh output variables-->
 <?php
+//Pernyataan PHP echo sering digunakan untuk menampilkan data ke layar.
 $txt = "SMKN 2 SUBANG";
 echo "I LOVE $txt!";
 ?>

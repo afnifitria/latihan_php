@@ -31,6 +31,7 @@
         </table>
     </header>
 <?php
+//Menetapkan string ke suatu variabel dilakukan dengan nama variabel diikuti dengan tanda sama dengan dan string:
 $x = "REKAYASA PERANGKAT LUNAK";
 echo $x;
 ?>

@@ -30,7 +30,8 @@
             </tr>   
         </table>
     </header>
-    
+<!--Operator aritmatika PHP digunakan dengan nilai numerik untuk melakukan operasi aritmatika umum, 
+seperti penjumlahan, pengurangan, perkalian, dll.-->
 <!--contoh operator penjumlahan/addition-->
 <h5>+ addition<h5>
 <?php

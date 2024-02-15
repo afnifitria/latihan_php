@@ -32,6 +32,7 @@
         </table>
     </header>
 <?php
+//Untuk memanggil fungsi tersebut, cukup tulis namanya diikuti tanda kurung ()
 function myMessage() {
   echo "Hello world!";
 }

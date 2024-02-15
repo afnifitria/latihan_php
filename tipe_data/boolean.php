@@ -31,6 +31,7 @@
         </table>
     </header>
 <?php 
+//Boolean mewakili dua kemungkinan keadaan: TRUE atau FALSE
 $x = true;
 var_dump($x);
 ?>
